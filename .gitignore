@@ -1,0 +1,13 @@
+.env
+*.db
+data/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.backup.*
+app.backup.*
+product_map.backup.*
+.DS_Store
+.vscode/
+.idea/

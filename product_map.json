@@ -1,0 +1,1044 @@
+{
+  "Классический тирамису": {
+    "nomNumber": "X9649963",
+    "sabyName": "Классический тирамису",
+    "priceListId": 6,
+    "sabyCost": 350.0,
+    "sabyId": 272,
+    "externalId": "411d9715-5f4d-4bd9-a93e-e4a5d21b9fc2"
+  },
+  "Кростата с шоколадом кусок": {
+    "nomNumber": "X8870089",
+    "sabyName": "Кростата с шоколадом кусок",
+    "priceListId": 6,
+    "sabyCost": 350.0,
+    "sabyId": 421,
+    "externalId": "89acd3cb-3923-4634-a4b2-8df470d3e07d"
+  },
+  "Кростата с шоколадом торт": {
+    "nomNumber": "X8852689",
+    "sabyName": "Кростата с шоколадом торт",
+    "priceListId": 6,
+    "sabyCost": 1500.0,
+    "sabyId": 270,
+    "externalId": "9f2c9edf-4a18-40ba-a175-b1716361714c"
+  },
+  "Сет Аль Воло": {
+    "nomNumber": "X4743547",
+    "sabyName": "Сет Аль Воло",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 511,
+    "externalId": "d5f635e8-85ff-46fc-88d8-44b84b4d2ae7"
+  },
+  "Молоко растительное ассортимент": {
+    "nomNumber": "X5402930",
+    "sabyName": "Молоко растительное ассортимент",
+    "priceListId": 6,
+    "sabyCost": 30.0,
+    "sabyId": 204,
+    "externalId": "f3d47112-464a-41c8-898b-fddcbe4f242d"
+  },
+  "Кофе Эспрессо": {
+    "nomNumber": "X8314407",
+    "sabyName": "Кофе Эспрессо",
+    "priceListId": 6,
+    "sabyCost": 250.0,
+    "sabyId": 218,
+    "externalId": "01b23d79-7a6e-45d3-a07b-6863fed61df8"
+  },
+  "Кофе Эспрессо двойной": {
+    "nomNumber": "X8448285",
+    "sabyName": "Кофе Эспрессо двойной",
+    "priceListId": 6,
+    "sabyCost": 300.0,
+    "sabyId": 220,
+    "externalId": "d3e68319-4bd6-4557-960e-214e79061e5c"
+  },
+  "Чай черный Дымный (копченый) пакетированный": {
+    "nomNumber": "X4701299",
+    "sabyName": "Чай черный Дымный (копченый) пакетированный",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 310,
+    "externalId": "08aeae98-3013-4da1-9f29-a1ad1808a09c"
+  },
+  "Чай чёрный  Японская сакура пакетированный": {
+    "nomNumber": "X4773176",
+    "sabyName": "Чай чёрный  Японская сакура пакетированный",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 311,
+    "externalId": "26f0248e-1082-4031-8fdd-2a02ad20b4ed"
+  },
+  "Чай зелёный китайский классический пакетированный": {
+    "nomNumber": "X4867988",
+    "sabyName": "Чай зелёный китайский классический пакетированный",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 313,
+    "externalId": "2e7b8d6b-e42f-4979-83d5-f716a3c8e5b4"
+  },
+  "Чай чёрный с можжевельником и травами пакетированный": {
+    "nomNumber": "X4917556",
+    "sabyName": "Чай чёрный с можжевельником и травами пакетированный",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 314,
+    "externalId": "0ef33603-4da5-4f5f-a4fe-c02737593d95"
+  },
+  "Чай зелёный с дыней пакетированный": {
+    "nomNumber": "X4838706",
+    "sabyName": "Чай зелёный с дыней пакетированный",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 312,
+    "externalId": "87e846d6-8dd1-4bb1-bbbe-c2f06e9b3797"
+  },
+  "Сет РОМА": {
+    "nomNumber": "X3704901",
+    "sabyName": "Сет РОМА",
+    "priceListId": 6,
+    "sabyCost": 990.0,
+    "sabyId": 508,
+    "externalId": "319694b0-3899-4a3a-867a-0562a84473eb"
+  },
+  "Сет СКРОККА": {
+    "nomNumber": "X7821652",
+    "sabyName": "Сет СКРОККА",
+    "priceListId": 6,
+    "sabyCost": 1290.0,
+    "sabyId": 512,
+    "externalId": "5c3bb585-b3fd-4d8a-a369-4225dedb45e0"
+  },
+  "Напиток COCA-COLA CLASSIC сильногазированный в стекле 0,33л": {
+    "nomNumber": "X3657602",
+    "sabyName": "Напиток COCA-COLA CLASSIC сильногазированный в стекле 0,33л",
+    "priceListId": 6,
+    "sabyCost": 340.0,
+    "sabyId": 359,
+    "externalId": "65f31361-f379-49d0-afd9-e71017717a2c"
+  },
+  "Напиток COCA-COLA ZERO сильногазированный в жест. банке 0,33л": {
+    "nomNumber": "X3816586",
+    "sabyName": "Напиток COCA-COLA ZERO сильногазированный в жест. банке 0,33л",
+    "priceListId": 6,
+    "sabyCost": 320.0,
+    "sabyId": 360,
+    "externalId": "41bee88a-5b17-4e2d-942f-12154e419106"
+  },
+  "Напиток SANPELLEGRINO Апельсин  газированный в жестяной банке 0,33л": {
+    "nomNumber": "X4031946",
+    "sabyName": "Напиток SANPELLEGRINO Апельсин  газированный в жестяной банке 0,33л",
+    "priceListId": 6,
+    "sabyCost": 380.0,
+    "sabyId": 361,
+    "externalId": "6c928ceb-f9da-44a2-b45c-1f4b6a81ac22"
+  },
+  "Напиток SANPELLEGRINO \"Chino\" среднегазированный 0.33 л": {
+    "nomNumber": "X4202688",
+    "sabyName": "Напиток SANPELLEGRINO \"Chino\" среднегазированный 0.33 л",
+    "priceListId": 6,
+    "sabyCost": 380.0,
+    "sabyId": 362,
+    "externalId": "5662e22f-e2a3-45d7-a264-b7baf66c7c19"
+  },
+  "Напиток ZUEGG Красный апельсин в стекле 200мл": {
+    "nomNumber": "X4412255",
+    "sabyName": "Напиток ZUEGG Красный апельсин в стекле 200мл",
+    "priceListId": 6,
+    "sabyCost": 350.0,
+    "sabyId": 363,
+    "externalId": "bb959ff9-3f85-4d47-ac16-902a03146ea0"
+  },
+  "Нектар ZUEGG  персик в стекле 200мл": {
+    "nomNumber": "X4776359",
+    "sabyName": "Нектар ZUEGG  персик в стекле 200мл",
+    "priceListId": 6,
+    "sabyCost": 350.0,
+    "sabyId": 364,
+    "externalId": "6fa2962d-3bac-4f4f-8ce1-051e246eabbd"
+  },
+  "Сет СКРОККА+ Пиво": {
+    "nomNumber": "X826487",
+    "sabyName": "Сет СКРОККА+ Пиво",
+    "priceListId": 6,
+    "sabyCost": 1390.0,
+    "sabyId": 513,
+    "externalId": "ed95ea32-a64f-4b10-ab69-5e6577a95ee9"
+  },
+  "Пиво светлое пастеризованное фильтрованное \"Birra Moretti\" 0.33 л.": {
+    "nomNumber": "Х446",
+    "sabyName": "Пиво светлое пастеризованное фильтрованное \"Birra Moretti\" 0.33 л.",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 446,
+    "externalId": "f4d3094c-9d69-460c-b889-58921c139908"
+  },
+  "Пиво светлое пастеризованное фильтрованное \"Перони Настро Аззурро\"": {
+    "nomNumber": "Х447",
+    "sabyName": "Пиво светлое пастеризованное фильтрованное \"Перони Настро Аззурро\"",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 447,
+    "externalId": "66d8ec8b-2887-4b16-9282-a277f8a20676"
+  },
+  "Пицца Сорризо с Мортаделлой сэндвич": {
+    "nomNumber": "X1938964",
+    "sabyName": "Пицца Сорризо с Мортаделлой сэндвич",
+    "priceListId": 6,
+    "sabyCost": 400.0,
+    "sabyId": 259,
+    "externalId": "272a5bd1-10e0-4195-b946-041c1adf2f72"
+  },
+  "Пицца Сорризо с Прошутто крудо сэндвич": {
+    "nomNumber": "X8532929",
+    "sabyName": "Пицца Сорризо с Прошутто крудо сэндвич",
+    "priceListId": 6,
+    "sabyCost": 690.0,
+    "sabyId": 268,
+    "externalId": "8469f514-5dd5-4044-8a1f-f4c160ac2155"
+  },
+  "Пицца Дьявола (кусок)": {
+    "nomNumber": "X117839",
+    "sabyName": "Пицца Дьявола (кусок)",
+    "priceListId": 6,
+    "sabyCost": 400.0,
+    "sabyId": 439,
+    "externalId": "f59f3a3e-39f8-4185-adf6-7a353e6cd32c"
+  },
+  "Пицца Маргарита (кусок)": {
+    "nomNumber": "X3733786",
+    "sabyName": "Пицца Маргарита (кусок)",
+    "priceListId": 6,
+    "sabyCost": 300.0,
+    "sabyId": 258,
+    "externalId": "5c085677-011e-4f46-b775-534fa3088d35"
+  },
+  "Пицца от Шефа (кусок)": {
+    "nomNumber": "X2518616",
+    "sabyName": "Пицца от Шефа (кусок)",
+    "priceListId": 6,
+    "sabyCost": 430.0,
+    "sabyId": 501,
+    "externalId": "357e661d-af82-48d1-9533-2b09b269ba2f"
+  },
+  "Пицца Приверно с картофелем и розмарином ( кусок)": {
+    "nomNumber": "X3549320",
+    "sabyName": "Пицца Приверно с картофелем и розмарином ( кусок)",
+    "priceListId": 6,
+    "sabyCost": 250.0,
+    "sabyId": 257,
+    "externalId": "8eb6ee35-22f7-4b32-9ce0-744be9467328"
+  },
+  "Пицца с бурратой и базиликом (кусок)": {
+    "nomNumber": "X9274789",
+    "sabyName": "Пицца с бурратой и базиликом (кусок)",
+    "priceListId": 6,
+    "sabyCost": 450.0,
+    "sabyId": 422,
+    "externalId": "fc246c1c-844d-4864-92c8-eb6884a1f686"
+  },
+  "Пицца Дьявола (противень)": {
+    "nomNumber": "X76954",
+    "sabyName": "Пицца Дьявола (противень)",
+    "priceListId": 6,
+    "sabyCost": 1800.0,
+    "sabyId": 438,
+    "externalId": "a3b7783f-cefd-42e9-9db1-6dfcf08cf20c"
+  },
+  "Пицца Маргарита (противень)": {
+    "nomNumber": "X338115",
+    "sabyName": "Пицца Маргарита (противень)",
+    "priceListId": 6,
+    "sabyCost": 1500.0,
+    "sabyId": 256,
+    "externalId": "96eca3f5-f26f-4584-ac12-ce1f01c6f0ca"
+  },
+  "Пицца Приверно с картофелем и розмарином ( противень)": {
+    "nomNumber": "X9261375",
+    "sabyName": "Пицца Приверно с картофелем и розмарином ( противень)",
+    "priceListId": 6,
+    "sabyCost": 1200.0,
+    "sabyId": 253,
+    "externalId": "c4e2d91d-a595-49b6-8515-b366341d54e9"
+  },
+  "Пицца с бурратой и базиликом (противень)": {
+    "nomNumber": "X5089887",
+    "sabyName": "Пицца с бурратой и базиликом (противень)",
+    "priceListId": 6,
+    "sabyCost": 2800.0,
+    "sabyId": 406,
+    "externalId": "721836db-75bd-4c09-8123-7bd0f49519b4"
+  },
+  "Пицца Качио с горгонзолой и грецким орехом": {
+    "nomNumber": "X9747652",
+    "sabyName": "Пицца Качио с горгонзолой и грецким орехом",
+    "priceListId": 6,
+    "sabyCost": 630.0,
+    "sabyId": 432,
+    "externalId": "68b3586a-b903-429c-a67b-569bd85d35a6"
+  },
+  "Пицца неправильная Маргарита": {
+    "nomNumber": "X9342321",
+    "sabyName": "Пицца неправильная Маргарита",
+    "priceListId": 6,
+    "sabyCost": 590.0,
+    "sabyId": 431,
+    "externalId": "36ba906e-581b-42d2-a623-fb5088e4d8a4"
+  },
+  "Пицца Парма с прошутто, страчателлой и вялеными томатами": {
+    "nomNumber": "X6865494",
+    "sabyName": "Пицца Парма с прошутто, страчателлой и вялеными томатами",
+    "priceListId": 6,
+    "sabyCost": 890.0,
+    "sabyId": 266,
+    "externalId": "85626450-c879-43f7-9602-8a4a0a33ac20"
+  },
+  "Пицца ТАРТУФО с  трюфелем,белыми грибами и золотым порошком": {
+    "nomNumber": "X9868608",
+    "sabyName": "Пицца ТАРТУФО с  трюфелем,белыми грибами и золотым порошком",
+    "priceListId": 6,
+    "sabyCost": 890.0,
+    "sabyId": 433,
+    "externalId": "d76e33ae-0988-408e-b474-80b221ce0e3c"
+  },
+  "Пицца Тропеа с тунцом и сладким луком": {
+    "nomNumber": "X9905363",
+    "sabyName": "Пицца Тропеа с тунцом и сладким луком",
+    "priceListId": 6,
+    "sabyCost": 510.0,
+    "sabyId": 434,
+    "externalId": "53078d50-599d-40d5-85f7-43b06589088b"
+  },
+  "Пицца Дьявола с острой салями": {
+    "nomNumber": "X5376778",
+    "sabyName": "Пицца Дьявола с острой салями",
+    "priceListId": 6,
+    "sabyCost": 600.0,
+    "sabyId": 252,
+    "externalId": "6ff0047e-dc73-4053-98ff-45c1a2353e80"
+  },
+  "Пицца Италия со страччателлой и базиликом": {
+    "nomNumber": "X8998024",
+    "sabyName": "Пицца Италия со страччателлой и базиликом",
+    "priceListId": 6,
+    "sabyCost": 450.0,
+    "sabyId": 429,
+    "externalId": "d2e57955-d2ef-4ceb-9433-d414da94ed88"
+  },
+  "Пицца Косакка с овечьим сыром Пекорино": {
+    "nomNumber": "X3182753",
+    "sabyName": "Пицца Косакка с овечьим сыром Пекорино",
+    "priceListId": 6,
+    "sabyCost": 500.0,
+    "sabyId": 263,
+    "externalId": "6c0c7240-e526-4530-8149-2efbe53306ac"
+  },
+  "Пицца Маргарита": {
+    "nomNumber": "X4741628",
+    "sabyName": "Пицца Маргарита",
+    "priceListId": 6,
+    "sabyCost": 490.0,
+    "sabyId": 251,
+    "externalId": "0ee98211-b855-4132-b698-cc3755f9a6a3"
+  },
+  "Пицца Маргарита с Прошутто Крудо и Руколой": {
+    "nomNumber": "X4598286",
+    "sabyName": "Пицца Маргарита с Прошутто Крудо и Руколой",
+    "priceListId": 6,
+    "sabyCost": 790.0,
+    "sabyId": 264,
+    "externalId": "4b6db18c-1bf5-45a4-8138-29163f29d813"
+  },
+  "Пицца Пармиджана с баклажанами": {
+    "nomNumber": "X8969192",
+    "sabyName": "Пицца Пармиджана с баклажанами",
+    "priceListId": 6,
+    "sabyCost": 570.0,
+    "sabyId": 428,
+    "externalId": "8141b720-5210-4691-8d91-c16cf1a0dd22"
+  },
+  "Пицца Аматричана": {
+    "nomNumber": "X9979307",
+    "sabyName": "Пицца Аматричана",
+    "priceListId": 6,
+    "sabyCost": 870.0,
+    "sabyId": 437,
+    "externalId": "137f9f0a-a561-40e8-9d05-d31ac919a297"
+  },
+  "Пицца Карбонара": {
+    "nomNumber": "X9934923",
+    "sabyName": "Пицца Карбонара",
+    "priceListId": 6,
+    "sabyCost": 650.0,
+    "sabyId": 435,
+    "externalId": "1c3e3d9e-693b-452f-8e51-b9bc5efb4b08"
+  },
+  "Пицца Качио э Пепе с пекорино и свежемолотым перцем": {
+    "nomNumber": "X9950073",
+    "sabyName": "Пицца Качио э Пепе с пекорино и свежемолотым перцем",
+    "priceListId": 6,
+    "sabyCost": 490.0,
+    "sabyId": 436,
+    "externalId": "ee62ca81-0d41-4bc1-987d-26b3914fb045"
+  },
+  "Римская бачата с мортаделлой": {
+    "nomNumber": "X7438457",
+    "sabyName": "Римская бачата с мортаделлой",
+    "priceListId": 6,
+    "sabyCost": 580.0,
+    "sabyId": 267,
+    "externalId": "01541cd1-4211-4f2e-855e-0315f0717f94"
+  },
+  "Зеленый микс салат Верде": {
+    "nomNumber": "X7495652",
+    "sabyName": "Зеленый микс салат Верде",
+    "priceListId": 6,
+    "sabyCost": 690.0,
+    "sabyId": 246,
+    "externalId": "cc3a9241-eb11-4587-b5fe-f2fda1f475fd"
+  },
+  "Моцарелла в рассоле": {
+    "nomNumber": "X5280872",
+    "sabyName": "Моцарелла в рассоле",
+    "priceListId": 6,
+    "sabyCost": 180.0,
+    "sabyId": 101,
+    "externalId": "3030014f-8fb0-4f98-8cd9-2b29d2d8cf90"
+  },
+  "Прошутто": {
+    "nomNumber": "X5280997",
+    "sabyName": "Прошутто",
+    "priceListId": 6,
+    "sabyCost": 380.0,
+    "sabyId": 96,
+    "externalId": "1d6d9c29-b904-429f-bc2e-df040ebd0fa1"
+  },
+  "моццарелла +прошутто": {
+    "nomNumber": "X4661445",
+    "sabyName": "моццарелла +прошутто",
+    "priceListId": 6,
+    "sabyCost": 450.0,
+    "sabyId": 506,
+    "externalId": "eff556b3-1815-40d1-9793-fc03eb2f1753"
+  },
+  "Салат Капрезе": {
+    "nomNumber": "X6226137",
+    "sabyName": "Салат Капрезе",
+    "priceListId": 6
+  },
+  "Кетчуп томатный": {
+    "nomNumber": "X7945316",
+    "sabyName": "Кетчуп томатный",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 418,
+    "externalId": "6da6a791-f28c-4354-af54-143f1158f3d4"
+  },
+  "Соус из горгонзолы": {
+    "nomNumber": "X8690432",
+    "sabyName": "Соус из горгонзолы",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 420,
+    "externalId": "1af7f188-5d07-4498-883d-c893e2019d46"
+  },
+  "Чесночный майонез": {
+    "nomNumber": "X8400889",
+    "sabyName": "Чесночный майонез",
+    "priceListId": 6,
+    "sabyCost": 150.0,
+    "sabyId": 419,
+    "externalId": "7b05d6d7-cc2d-492c-9e39-3b12575dddd4"
+  },
+  "Брусок Санпьетрино во фритюре с пастой Аматричана": {
+    "nomNumber": "X9225480",
+    "sabyName": "Брусок Санпьетрино во фритюре с пастой Аматричана",
+    "priceListId": 6,
+    "sabyCost": 400.0,
+    "sabyId": 488,
+    "externalId": "fff8cd81-27e9-4015-a9cf-4524fea41721"
+  },
+  "Классические римские крокеты СУППЛИ с моцареллой": {
+    "nomNumber": "X4715462",
+    "sabyName": "Классические римские крокеты СУППЛИ с моцареллой",
+    "priceListId": 6,
+    "sabyCost": 350.0,
+    "sabyId": 276,
+    "externalId": "d15e4553-d464-4db8-8d62-c8f4c9085a93"
+  },
+  "Куб Санпьетрино во фритюре с пастой Карбонара": {
+    "nomNumber": "X8721300",
+    "sabyName": "Куб Санпьетрино во фритюре с пастой Карбонара",
+    "priceListId": 6,
+    "sabyCost": 380.0,
+    "sabyId": 487,
+    "externalId": "ef1fc8dc-95dd-4bc2-bbe2-85091a5e1af0"
+  },
+  "БРУСКЕТТА из МАСЛИН, 212мл": {
+    "nomNumber": "X6459780",
+    "sabyName": "БРУСКЕТТА из МАСЛИН, 212мл",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 398,
+    "externalId": "7abaf66c-db2e-4897-bd71-470075b345cd"
+  },
+  "БРУСКЕТТА из ТОМАТОВ,212мл": {
+    "nomNumber": "X6601570",
+    "sabyName": "БРУСКЕТТА из ТОМАТОВ,212мл",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 399,
+    "externalId": "1e86fe8c-f359-496a-81cd-00c893e085f4"
+  },
+  "БРУСКЕТТА ПО-ДЕРЕВЕНСКИ,212мл": {
+    "nomNumber": "X6912545",
+    "sabyName": "БРУСКЕТТА ПО-ДЕРЕВЕНСКИ,212мл",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 401,
+    "externalId": "74ae5cda-f6c8-4143-89c4-d5819467c2c1"
+  },
+  "Вяленые помидоры по-апулийски,314 мл": {
+    "nomNumber": "X1627761",
+    "sabyName": "Вяленые помидоры по-апулийски,314 мл",
+    "priceListId": 6,
+    "sabyCost": 650.0,
+    "sabyId": 452,
+    "externalId": "6f7e85c3-51c8-4434-a89f-794e040c69c5"
+  },
+  "КАПЕРСЫ в ВИННОМ УКСУСЕ,212мл": {
+    "nomNumber": "X7348674",
+    "sabyName": "КАПЕРСЫ в ВИННОМ УКСУСЕ,212мл",
+    "priceListId": 6,
+    "sabyCost": 500.0,
+    "sabyId": 405,
+    "externalId": "72a19079-1be3-4f8f-9e11-4c958abfd6ba"
+  },
+  "КУСОЧКИ АРТИШОКОВ по-апулийски,314мл": {
+    "nomNumber": "X7048925",
+    "sabyName": "КУСОЧКИ АРТИШОКОВ по-апулийски,314мл",
+    "priceListId": 6,
+    "sabyCost": 700.0,
+    "sabyId": 402,
+    "externalId": "07dab78c-2f1c-4920-a65f-5723300f9301"
+  },
+  "МИКС ОЛИВОК и МАСЛИН без косточки,314мл": {
+    "nomNumber": "X7186356",
+    "sabyName": "МИКС ОЛИВОК и МАСЛИН без косточки,314мл",
+    "priceListId": 6,
+    "sabyCost": 650.0,
+    "sabyId": 403,
+    "externalId": "a3b530cf-e8e6-47bc-822f-39929da16a12"
+  },
+  "ОЛИВКИ ЗЕЛЕНЫЕ (СЛАДКИЕ),314мл": {
+    "nomNumber": "X7275356",
+    "sabyName": "ОЛИВКИ ЗЕЛЕНЫЕ (СЛАДКИЕ),314мл",
+    "priceListId": 6,
+    "sabyCost": 600.0,
+    "sabyId": 404,
+    "externalId": "93d44854-fab1-4f07-8a5c-974dec08bdee"
+  },
+  "ПЕСТО ПО-ГЕНУЭЗСКИ,212мл": {
+    "nomNumber": "X6734971",
+    "sabyName": "ПЕСТО ПО-ГЕНУЭЗСКИ,212мл",
+    "priceListId": 6,
+    "sabyCost": 580.0,
+    "sabyId": 400,
+    "externalId": "fded4375-73cf-45da-b358-c2da1ebdec4f"
+  },
+  "ПОЛУВЯЛЕННЫЕ ПОМИДОРЧИКИ \" ЧЕРРИ\" 314мл.": {
+    "nomNumber": "X1704758",
+    "sabyName": "ПОЛУВЯЛЕННЫЕ ПОМИДОРЧИКИ \" ЧЕРРИ\" 314мл.",
+    "priceListId": 6,
+    "sabyCost": 750.0,
+    "sabyId": 453,
+    "externalId": "9e92417d-d36f-40a8-93a1-9f38c3f846f1"
+  },
+  "СЕРДЦЕВИНЫ АРТИШОКОВ по-деревенски, 314мл.": {
+    "nomNumber": "X1750125",
+    "sabyName": "СЕРДЦЕВИНЫ АРТИШОКОВ по-деревенски, 314мл.",
+    "priceListId": 6,
+    "sabyCost": 850.0,
+    "sabyId": 454,
+    "externalId": "3f0fc88d-95dc-40f5-b47c-65c2a2bc52a4"
+  },
+  "СЛАДКИЙ МАРИНОВАННЫЙ ЛУК Бореттане\" в бальзамическом уксусе, 314 мл.": {
+    "nomNumber": "X1778531",
+    "sabyName": "СЛАДКИЙ МАРИНОВАННЫЙ ЛУК Бореттане\" в бальзамическом уксусе, 314 мл.",
+    "priceListId": 6,
+    "sabyCost": 530.0,
+    "sabyId": 455,
+    "externalId": "cd220b26-4ba8-44ff-8964-a408deb8c6b1"
+  },
+  "Кофе в зернах Лавацца Оро 250г": {
+    "nomNumber": "X7196250",
+    "sabyName": "Кофе в зернах Лавацца Оро 250г",
+    "priceListId": 6,
+    "sabyCost": 670.0,
+    "sabyId": 481,
+    "externalId": "74ca4d49-5545-4e76-8914-db4aaec3f8dd"
+  },
+  "Масло оливковое холодного отжима САНТАНЖЕЛО, 0,5л": {
+    "nomNumber": "X681949",
+    "sabyName": "Масло оливковое холодного отжима САНТАНЖЕЛО, 0,5л",
+    "priceListId": 6,
+    "sabyCost": 780.0,
+    "sabyId": 440,
+    "externalId": "b02c297c-e57e-4eb0-9fd4-aed83a9cafca"
+  },
+  "Паста ГРАНЬЯНО ЛИНГВИНЕ, 500г": {
+    "nomNumber": "X2250763",
+    "sabyName": "Паста ГРАНЬЯНО ЛИНГВИНЕ, 500г",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 463,
+    "externalId": "3fea807f-130e-4b9c-9c14-471b4c543b90"
+  },
+  "Паста ГРАНЬЯНО ПЕННЕ с чернилами каракатицы, 500г": {
+    "nomNumber": "X8843475",
+    "sabyName": "Паста ГРАНЬЯНО ПЕННЕ с чернилами каракатицы, 500г",
+    "priceListId": 6,
+    "sabyCost": 780.0,
+    "sabyId": 388,
+    "externalId": "4d4aeba6-79ce-491b-80db-2c17fc347ef6"
+  },
+  "Паста ГРАНЬЯНО Пеннетте, 500г": {
+    "nomNumber": "X9220401",
+    "sabyName": "Паста ГРАНЬЯНО Пеннетте, 500г",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 390,
+    "externalId": "475f57f1-efa3-4964-b963-be91db6c75a3"
+  },
+  "Паста ГРАНЬЯНО Пружинки,500г.": {
+    "nomNumber": "X2069730",
+    "sabyName": "Паста ГРАНЬЯНО Пружинки,500г.",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 462,
+    "externalId": "4c7c3890-b7bf-41fd-a3f1-6cd20708f69c"
+  },
+  "Паста ГРАНЬЯНО Спагетти, 500г": {
+    "nomNumber": "X9120195",
+    "sabyName": "Паста ГРАНЬЯНО Спагетти, 500г",
+    "priceListId": 6,
+    "sabyCost": 570.0,
+    "sabyId": 389,
+    "externalId": "2986383a-ad97-4944-b1c1-b7415bd073b7"
+  },
+  "Паста яичная FILOTEA Лингвине с чесноком и петрушкой,250г": {
+    "nomNumber": "X8460829",
+    "sabyName": "Паста яичная FILOTEA Лингвине с чесноком и петрушкой,250г",
+    "priceListId": 6,
+    "sabyCost": 600.0,
+    "sabyId": 385,
+    "externalId": "3e3e9ee5-8b12-4704-a296-eee83db5c38a"
+  },
+  "Паста яичная FILOTEA Матассине Лингвине с Песто,250г": {
+    "nomNumber": "X8580745",
+    "sabyName": "Паста яичная FILOTEA Матассине Лингвине с Песто,250г",
+    "priceListId": 6,
+    "sabyCost": 600.0,
+    "sabyId": 386,
+    "externalId": "08157feb-09a8-47b0-aba9-33d74d639233"
+  },
+  "Паста яичная FILOTEA ТАЛЬЯТЕЛЛЕ, 250г": {
+    "nomNumber": "X8691799",
+    "sabyName": "Паста яичная FILOTEA ТАЛЬЯТЕЛЛЕ, 250г",
+    "priceListId": 6,
+    "sabyCost": 600.0,
+    "sabyId": 387,
+    "externalId": "8c541740-1862-47f4-95cf-c589f22f614b"
+  },
+  "Тарелка керамическая, дизайн ПОЗИТАНО,диаметр 21 см": {
+    "nomNumber": "X2572574",
+    "sabyName": "Тарелка керамическая, дизайн ПОЗИТАНО,диаметр 21 см",
+    "priceListId": 6,
+    "sabyCost": 2000.0,
+    "sabyId": 467,
+    "externalId": "e4b02778-43d9-4a67-93db-04930d1152f5"
+  },
+  "Тарелка керамическая, дизайн РАВЕЛЛО ,диаметр 21 см.": {
+    "nomNumber": "X2526274",
+    "sabyName": "Тарелка керамическая, дизайн РАВЕЛЛО ,диаметр 21 см.",
+    "priceListId": 6,
+    "sabyCost": 2000.0,
+    "sabyId": 466,
+    "externalId": "d7a7aba8-051d-46e9-92e3-95ec27ffbff8"
+  },
+  "Тарелка керамическая, дизайн ЧЕТАРА,диаметр 21 см.": {
+    "nomNumber": "X2457069",
+    "sabyName": "Тарелка керамическая, дизайн ЧЕТАРА,диаметр 21 см.",
+    "priceListId": 6,
+    "sabyCost": 2000.0,
+    "sabyId": 465,
+    "externalId": "fc64cc74-31d0-406d-bd8a-5603d967e299"
+  },
+  "КАРПАЧЧО (СЛАЙСЫ) ИЗ ЧЕРНОГО (ЛЕТНЕГО) ТРЮФЕЛЯ,30г": {
+    "nomNumber": "X5155110",
+    "sabyName": "КАРПАЧЧО (СЛАЙСЫ) ИЗ ЧЕРНОГО (ЛЕТНЕГО) ТРЮФЕЛЯ,30г",
+    "priceListId": 6,
+    "sabyCost": 950.0,
+    "sabyId": 393,
+    "externalId": "d7731ff7-0b81-45cc-83b6-68eaffa83976"
+  },
+  "СОУС С БЕЛЫМ ТРЮФЕЛЕМ,80г": {
+    "nomNumber": "X5572323",
+    "sabyName": "СОУС С БЕЛЫМ ТРЮФЕЛЕМ,80г",
+    "priceListId": 6,
+    "sabyCost": 580.0,
+    "sabyId": 395,
+    "externalId": "467300fc-e488-4516-9fb5-7f2a0366269f"
+  },
+  "СОУС С ЧЕРНЫМ (ЛЕТНИМ) ТРЮФЕЛЕМ,80г": {
+    "nomNumber": "X5349430",
+    "sabyName": "СОУС С ЧЕРНЫМ (ЛЕТНИМ) ТРЮФЕЛЕМ,80г",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 394,
+    "externalId": "327aefeb-bc7d-4c90-ad62-1e9dbb2d37b1"
+  },
+  "ТРЮФЕЛЬНОЕ МАСЛО С БЕЛЫМ ТРЮФЕЛЕМ, 100мл": {
+    "nomNumber": "X5761910",
+    "sabyName": "ТРЮФЕЛЬНОЕ МАСЛО С БЕЛЫМ ТРЮФЕЛЕМ, 100мл",
+    "priceListId": 6,
+    "sabyCost": 1200.0,
+    "sabyId": 396,
+    "externalId": "71092614-967f-4bad-8098-91b4fd9e7b3c"
+  },
+  "ТРЮФЕЛЬНОЕ МАСЛО С ЧЕРНЫМ (ЛЕТНИМ) ТРЮФЕЛЕМ, 100мл": {
+    "nomNumber": "X5868770",
+    "sabyName": "ТРЮФЕЛЬНОЕ МАСЛО С ЧЕРНЫМ (ЛЕТНИМ) ТРЮФЕЛЕМ, 100мл",
+    "priceListId": 6,
+    "sabyCost": 1050.0,
+    "sabyId": 397,
+    "externalId": "9a0a8426-8540-45cd-9770-a47eb7f36d4e"
+  },
+  "ПРИПРАВА для приготовления СОУСА\" Алл'арраббьята \" 50 гр.": {
+    "nomNumber": "X1963080",
+    "sabyName": "ПРИПРАВА для приготовления СОУСА\" Алл'арраббьята \" 50 гр.",
+    "priceListId": 6,
+    "sabyCost": 420.0,
+    "sabyId": 460,
+    "externalId": "22d48f37-f4f6-46fd-a778-e6947dd0c41f"
+  },
+  "ПРИПРАВА для приготовления СОУСА\" Аль лимоне \" 50 гр.": {
+    "nomNumber": "X1990938",
+    "sabyName": "ПРИПРАВА для приготовления СОУСА\" Аль лимоне \" 50 гр.",
+    "priceListId": 6,
+    "sabyCost": 420.0,
+    "sabyId": 461,
+    "externalId": "2a8af2f7-fa1f-4215-8322-266de13be4e3"
+  },
+  "СОУС из ОВОЩЕЙ - ГРИЛЬ, 314 Мл.": {
+    "nomNumber": "X1818899",
+    "sabyName": "СОУС из ОВОЩЕЙ - ГРИЛЬ, 314 Мл.",
+    "priceListId": 6,
+    "sabyCost": 540.0,
+    "sabyId": 456,
+    "externalId": "0ba99682-890c-42d4-b5e9-6f3994556d38"
+  },
+  "СОУС ОСТРЫЙ АЛЛАРРАББЬЯТА, 314 мл.": {
+    "nomNumber": "X1853506",
+    "sabyName": "СОУС ОСТРЫЙ АЛЛАРРАББЬЯТА, 314 мл.",
+    "priceListId": 6,
+    "sabyCost": 540.0,
+    "sabyId": 457,
+    "externalId": "59e46192-ae5c-44b9-b653-29bb29abaee6"
+  },
+  "СОУС ПУТТАНЕСКА, 314 мл.": {
+    "nomNumber": "X1891535",
+    "sabyName": "СОУС ПУТТАНЕСКА, 314 мл.",
+    "priceListId": 6,
+    "sabyCost": 540.0,
+    "sabyId": 458,
+    "externalId": "5bd69e68-e91c-4e48-a90d-7b3c94a7bd25"
+  },
+  "СОУС ТОМАТНЫЙ с БАЗИЛИКОМ, 314 мл.": {
+    "nomNumber": "X1929134",
+    "sabyName": "СОУС ТОМАТНЫЙ с БАЗИЛИКОМ, 314 мл.",
+    "priceListId": 6,
+    "sabyCost": 540.0,
+    "sabyId": 459,
+    "externalId": "750a4eb5-9691-4521-9c06-6ba004d02e28"
+  },
+  "Сыр «азоло» (asolo), 180 гр": {
+    "nomNumber": "X4731111",
+    "sabyName": "Сыр «азоло» (asolo), 180 гр",
+    "priceListId": 6,
+    "sabyCost": 500.0,
+    "sabyId": 472,
+    "externalId": "0360d66e-8aba-4bfb-aa5a-146dbe91d252"
+  },
+  "сыр Буррата (Burrata), 150 гр": {
+    "nomNumber": "X6024590",
+    "sabyName": "сыр Буррата (Burrata), 150 гр",
+    "priceListId": 6,
+    "sabyCost": 360.0,
+    "sabyId": 480,
+    "externalId": "287fa302-e5c4-4345-929a-153ad2c575af"
+  },
+  "Сыр Буррата с трюфелем, пластик 150г": {
+    "nomNumber": "X5939625",
+    "sabyName": "Сыр Буррата с трюфелем, пластик 150г",
+    "priceListId": 6,
+    "sabyCost": 380.0,
+    "sabyId": 479,
+    "externalId": "2b33e749-60e0-420d-b1a6-286a81c2a617"
+  },
+  "Сыр Горгонзола с трюфелем Gorgonzola al tartufo, лоток 160г": {
+    "nomNumber": "X5267650",
+    "sabyName": "Сыр Горгонзола с трюфелем Gorgonzola al tartufo, лоток 160г",
+    "priceListId": 6,
+    "sabyCost": 580.0,
+    "sabyId": 476,
+    "externalId": "e416d791-2def-4d95-bd80-e360f83dc90b"
+  },
+  "Сыр Качотта  классическая, лоток 160г": {
+    "nomNumber": "X9767449",
+    "sabyName": "Сыр Качотта  классическая, лоток 160г",
+    "priceListId": 6,
+    "sabyCost": 450.0,
+    "sabyId": 499,
+    "externalId": "b23ad9de-9a72-48a7-881d-452cbede796b"
+  },
+  "Сыр Качотта с пеперончино, лоток 160г": {
+    "nomNumber": "X5517427",
+    "sabyName": "Сыр Качотта с пеперончино, лоток 160г",
+    "priceListId": 6,
+    "sabyCost": 450.0,
+    "sabyId": 514,
+    "externalId": "355fa64c-36f9-4455-ac04-9ee7041b43b2"
+  },
+  "Сыр Качотта с черным перцем, лоток 160г": {
+    "nomNumber": "X5077799",
+    "sabyName": "Сыр Качотта с черным перцем, лоток 160г",
+    "priceListId": 6,
+    "sabyCost": 450.0,
+    "sabyId": 474,
+    "externalId": "c09a75f4-107c-4fb2-9e7c-0aaa57648bf3"
+  },
+  "Сыр \"Моцарелла\" бокончино пстик, 125г": {
+    "nomNumber": "X5886937",
+    "sabyName": "Сыр \"Моцарелла\" бокончино пстик, 125г",
+    "priceListId": 6,
+    "sabyCost": 300.0,
+    "sabyId": 478,
+    "externalId": "9efdc45b-c1d3-403f-aac7-e7b12b9aaa78"
+  },
+  "Сыр \"Моцарелла\" чильеджина пластик,125г": {
+    "nomNumber": "X5784430",
+    "sabyName": "Сыр \"Моцарелла\" чильеджина пластик,125г",
+    "priceListId": 6,
+    "sabyCost": 200.0,
+    "sabyId": 477,
+    "externalId": "3a841144-633a-4af6-8c5b-e1ba3a0c56ff"
+  },
+  "Сыр с голубой плесенью МонтеБлун MonteBlun, лоток 160г": {
+    "nomNumber": "X5199543",
+    "sabyName": "Сыр с голубой плесенью МонтеБлун MonteBlun, лоток 160г",
+    "priceListId": 6,
+    "sabyCost": 520.0,
+    "sabyId": 475,
+    "externalId": "02a0a2a1-70fe-4ed9-af6c-72543d2c8236"
+  },
+  "Шоколад DOMORI БЕЛЫЙ  c КАРАМЕЛЬЮ и орехом ПЕКАН, 75г": {
+    "nomNumber": "X7622338",
+    "sabyName": "Шоколад DOMORI БЕЛЫЙ  c КАРАМЕЛЬЮ и орехом ПЕКАН, 75г",
+    "priceListId": 6,
+    "sabyCost": 590.0,
+    "sabyId": 377,
+    "externalId": "5e9318a8-9818-4574-9f0d-8930e4bec128"
+  },
+  "Шоколад DOMORI БЕЛЫЙ СОЛЕНЫМИ Сицилийскими ФИСТАШКАМИ, 75г": {
+    "nomNumber": "X7846250",
+    "sabyName": "Шоколад DOMORI БЕЛЫЙ СОЛЕНЫМИ Сицилийскими ФИСТАШКАМИ, 75г",
+    "priceListId": 6,
+    "sabyCost": 590.0,
+    "sabyId": 378,
+    "externalId": "aebb0fd9-2650-4b7b-9667-41142d6cc094"
+  },
+  "Шоколад DOMORI горький 70% ( из какао-бобов Колумбии),50г": {
+    "nomNumber": "X2660976",
+    "sabyName": "Шоколад DOMORI горький 70% ( из какао-бобов Колумбии),50г",
+    "priceListId": 6,
+    "sabyCost": 770.0,
+    "sabyId": 468,
+    "externalId": "84bee2e4-6a29-45d9-92bd-50d922c0eda5"
+  },
+  "Шоколад DOMORI ГОРЬКИЙ 70 % (из какао-бобов Мадагаскара), 50г": {
+    "nomNumber": "X8190678",
+    "sabyName": "Шоколад DOMORI ГОРЬКИЙ 70 % (из какао-бобов Мадагаскара), 50г",
+    "priceListId": 6,
+    "sabyCost": 770.0,
+    "sabyId": 381,
+    "externalId": "90eba6c5-7edf-400c-a394-74cc68bc0514"
+  },
+  "Шоколад DOMORI ГОРЬКИЙ 70 % (из какао-бобов Эквадора), 50г": {
+    "nomNumber": "X8297989",
+    "sabyName": "Шоколад DOMORI ГОРЬКИЙ 70 % (из какао-бобов Эквадора), 50г",
+    "priceListId": 6,
+    "sabyCost": 770.0,
+    "sabyId": 382,
+    "externalId": "fc1ffa18-6bfb-4cd3-b98a-27f07f453407"
+  },
+  "Шоколад DOMORI ГОРЬКИЙ 70 %  ( с добавлением какао-бобов Криолло ),75г": {
+    "nomNumber": "X8068142",
+    "sabyName": "Шоколад DOMORI ГОРЬКИЙ 70 %  ( с добавлением какао-бобов Криолло ),75г",
+    "priceListId": 6,
+    "sabyCost": 520.0,
+    "sabyId": 380,
+    "externalId": "df97e67f-4241-45ed-9d3a-708f957234fb"
+  },
+  "Шоколад DOMORI МОЛОЧНЫЙ 50 %  ( с добавлением какао-бобов Криолло ) , 75г": {
+    "nomNumber": "X7913655",
+    "sabyName": "Шоколад DOMORI МОЛОЧНЫЙ 50 %  ( с добавлением какао-бобов Криолло ) , 75г",
+    "priceListId": 6,
+    "sabyCost": 550.0,
+    "sabyId": 379,
+    "externalId": "c74de665-0f3e-48bb-9d0a-c7c3976f3818"
+  },
+  "Шоколад ГОРЬКИЙ 70 % (.из какао-бобов Венесуэлы ), 50 гр": {
+    "nomNumber": "X230041278",
+    "sabyName": "Шоколад ГОРЬКИЙ 70 % (.из какао-бобов Венесуэлы ), 50 гр",
+    "priceListId": 6,
+    "sabyCost": 770.0,
+    "sabyId": 469,
+    "externalId": "3c64477c-7493-4ded-a642-d0686a0f0469"
+  },
+  "Вода FIUGGI газированная в пластиковой бутылке 500мл": {
+    "nomNumber": "X3087258",
+    "sabyName": "Вода FIUGGI газированная в пластиковой бутылке 500мл",
+    "priceListId": 6,
+    "sabyCost": 360.0,
+    "sabyId": 355,
+    "externalId": "289859ed-6007-4102-a6c0-a7040610354b"
+  },
+  "Вода FIUGGI негазированная в пластиковой бутылке 500мл": {
+    "nomNumber": "X3280358",
+    "sabyName": "Вода FIUGGI негазированная в пластиковой бутылке 500мл",
+    "priceListId": 6,
+    "sabyCost": 360.0,
+    "sabyId": 356,
+    "externalId": "6d563a0a-e8e3-4316-9c02-1b4416c8f8f1"
+  },
+  "Вода минеральная ACQUA PANNA негазированная 0.75 л": {
+    "nomNumber": "х123",
+    "sabyName": "Вода минеральная ACQUA PANNA негазированная 0.75 л",
+    "priceListId": 6,
+    "sabyCost": 430.0,
+    "sabyId": 354,
+    "externalId": "f0f1535f-133c-47e6-8497-69800180f25e"
+  },
+  "Вода минеральная JEVEA \"Crystalnaya\" природная негазированная 0.33 л": {
+    "nomNumber": "X3343304",
+    "sabyName": "Вода минеральная JEVEA \"Crystalnaya\" природная негазированная 0.33 л",
+    "priceListId": 6,
+    "sabyCost": 190.0,
+    "sabyId": 357,
+    "externalId": "bdc496cc-23b5-461a-9414-753a3c3a0cec"
+  },
+  "Вода минеральная SAN PELLEGRINO природная газированная 0.25 л": {
+    "nomNumber": "X3509401",
+    "sabyName": "Вода минеральная SAN PELLEGRINO природная газированная 0.25 л",
+    "priceListId": 6,
+    "sabyCost": 430.0,
+    "sabyId": 358,
+    "externalId": "ba60368d-dd33-4acf-8987-48b0b6eb81cc"
+  },
+  "пудра из маслин": {
+    "nomNumber": "X360139",
+    "sabyName": "пудра из маслин",
+    "priceListId": 6,
+    "sabyCost": 0.35,
+    "sabyId": 489,
+    "externalId": "ab455f10-3bfd-4305-87b7-898a26c8ac16"
+  },
+  "Китайский зелёный чай в пакетиках с дыней": {
+    "nomNumber": "X4268389",
+    "sabyName": "Китайский зелёный чай в пакетиках с дыней",
+    "priceListId": 6,
+    "sabyCost": 10.76,
+    "sabyId": 304,
+    "externalId": "e117bfe8-48c5-4b89-a963-4abeac39992a"
+  },
+  "Чай в пакетиках черный классический": {
+    "nomNumber": "X4480466",
+    "sabyName": "Чай в пакетиках черный классический",
+    "priceListId": 6,
+    "sabyCost": 3.21,
+    "sabyId": 307,
+    "externalId": "8897d090-b45e-4bad-998d-400f20f4877d"
+  },
+  "Чай черный в пакетиках с можжевельником и травами": {
+    "nomNumber": "X4137337",
+    "sabyName": "Чай черный в пакетиках с можжевельником и травами",
+    "priceListId": 6,
+    "sabyCost": 18.04,
+    "sabyId": 302,
+    "externalId": "ea90cf1e-2c42-426f-b740-3cdf8c735cd9"
+  },
+  "Чай  черный \"Дубайский шоколад\" в пакетиках": {
+    "nomNumber": "X3964009",
+    "sabyName": "Чай  черный \"Дубайский шоколад\" в пакетиках",
+    "priceListId": 6,
+    "sabyCost": 2.34,
+    "sabyId": 300,
+    "externalId": "35998dd9-0a39-45e2-b89d-4c6eaf696f0c"
+  },
+  "Чёрный чай в пакетиках с имбирем, чабрецом в пакетиках": {
+    "nomNumber": "X3867465",
+    "sabyName": "Чёрный чай в пакетиках с имбирем, чабрецом в пакетиках",
+    "priceListId": 6,
+    "sabyCost": 12.96,
+    "sabyId": 299,
+    "externalId": "6a83f3fc-16f4-47ab-9c22-6994c42ede27"
+  },
+  "Чёрный чай в пакетиках с розмарином и облепихой": {
+    "nomNumber": "X4055685",
+    "sabyName": "Чёрный чай в пакетиках с розмарином и облепихой",
+    "priceListId": 6,
+    "sabyCost": 10.48,
+    "sabyId": 301,
+    "externalId": "f91e941d-1f21-45c9-a5cf-a3f86066a236"
+  },
+  "Черный чай в пакетиках с ягодами и мятой": {
+    "nomNumber": "X4416754",
+    "sabyName": "Черный чай в пакетиках с ягодами и мятой",
+    "priceListId": 6,
+    "sabyCost": 7.44,
+    "sabyId": 306,
+    "externalId": "bf0786f5-d712-43ea-aba1-0cefb1c7e104"
+  },
+  "Зеленый микс салат": {
+    "nomNumber": "X7495652",
+    "sabyName": "Зеленый микс салат Верде",
+    "priceListId": 6
+  },
+  "Пицца Приверно с картофелем и розмарином  кусок": {
+    "nomNumber": "X3549320",
+    "sabyName": "Пицца Приверно с картофелем и розмарином ( кусок)",
+    "priceListId": 6,
+    "sabyCost": 250.0,
+    "sabyId": 257,
+    "externalId": "8eb6ee35-22f7-4b32-9ce0-744be9467328"
+  },
+  "Пицца Приверно с картофелем и розмарином кусок": {
+    "nomNumber": "X3549320",
+    "sabyName": "Пицца Приверно с картофелем и розмарином ( кусок)",
+    "priceListId": 6,
+    "sabyCost": 250.0,
+    "sabyId": 257,
+    "externalId": "8eb6ee35-22f7-4b32-9ce0-744be9467328"
+  },
+  "Пицца Приверно с картофелем и розмарином (кусок)": {
+    "nomNumber": "X3549320",
+    "sabyName": "Пицца Приверно с картофелем и розмарином ( кусок)",
+    "priceListId": 6,
+    "sabyCost": 250.0,
+    "sabyId": 257,
+    "externalId": "8eb6ee35-22f7-4b32-9ce0-744be9467328"
+  }
+}

@@ -1,0 +1,4 @@
+62-109-26-144.sslip.io {
+    encode gzip
+    reverse_proxy app:8010
+}

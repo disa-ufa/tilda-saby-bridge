@@ -1,0 +1,9 @@
+.env
+.git
+data
+*.db
+__pycache__
+*.pyc
+*.backup.*
+app.backup.*
+product_map.backup.*
